@@ -1,0 +1,16 @@
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\bin\Debug\net5.0\CA_CompanyCRUD.exe
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\bin\Debug\net5.0\CA_CompanyCRUD.deps.json
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\bin\Debug\net5.0\CA_CompanyCRUD.runtimeconfig.json
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\bin\Debug\net5.0\CA_CompanyCRUD.runtimeconfig.dev.json
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\bin\Debug\net5.0\CA_CompanyCRUD.dll
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\bin\Debug\net5.0\CA_CompanyCRUD.pdb
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.csproj.AssemblyReference.cache
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.AssemblyInfoInputs.cache
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.AssemblyInfo.cs
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.csproj.CoreCompileInputs.cache
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.dll
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\refint\CA_CompanyCRUD.dll
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.pdb
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\CA_CompanyCRUD.genruntimeconfig.cache
+C:\Users\emirguven\source\repos\CA_CompanyCRUD\CA_CompanyCRUD\obj\Debug\net5.0\ref\CA_CompanyCRUD.dll
