@@ -1,0 +1,16 @@
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\bin\Debug\net5.0\CA_Cheesecake.exe
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\bin\Debug\net5.0\CA_Cheesecake.deps.json
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\bin\Debug\net5.0\CA_Cheesecake.runtimeconfig.json
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\bin\Debug\net5.0\CA_Cheesecake.runtimeconfig.dev.json
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\bin\Debug\net5.0\CA_Cheesecake.dll
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\bin\Debug\net5.0\CA_Cheesecake.pdb
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.csproj.AssemblyReference.cache
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.AssemblyInfoInputs.cache
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.AssemblyInfo.cs
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.csproj.CoreCompileInputs.cache
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.dll
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\refint\CA_Cheesecake.dll
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.pdb
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\CA_Cheesecake.genruntimeconfig.cache
+C:\Users\emirguven\source\repos\CA_Cheesecake\CA_Cheesecake\obj\Debug\net5.0\ref\CA_Cheesecake.dll
